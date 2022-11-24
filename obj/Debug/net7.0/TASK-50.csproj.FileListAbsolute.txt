@@ -1,0 +1,15 @@
+D:\ST\хочу стать умней\TASK_50\TASK-50\bin\Debug\net7.0\TASK-50.exe
+D:\ST\хочу стать умней\TASK_50\TASK-50\bin\Debug\net7.0\TASK-50.deps.json
+D:\ST\хочу стать умней\TASK_50\TASK-50\bin\Debug\net7.0\TASK-50.runtimeconfig.json
+D:\ST\хочу стать умней\TASK_50\TASK-50\bin\Debug\net7.0\TASK-50.dll
+D:\ST\хочу стать умней\TASK_50\TASK-50\bin\Debug\net7.0\TASK-50.pdb
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.csproj.AssemblyReference.cache
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.GeneratedMSBuildEditorConfig.editorconfig
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.AssemblyInfoInputs.cache
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.AssemblyInfo.cs
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.csproj.CoreCompileInputs.cache
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.dll
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\refint\TASK-50.dll
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.pdb
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\TASK-50.genruntimeconfig.cache
+D:\ST\хочу стать умней\TASK_50\TASK-50\obj\Debug\net7.0\ref\TASK-50.dll
